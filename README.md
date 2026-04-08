@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Vishnu
 
-<!--
-**vishnupriyan1912/vishnupriyan1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Backend Developer  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Skilled in Python and MySQL
+- Built a Student Database Management System
+- Interested in backend development and data-driven applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- MySQL
+- SQL
+- HTML, CSS (Basics)
+
+## 📌 Projects
+- Student Database Management System (Python + MySQL)
+- Python Calculator
+- Password Generator
+
+## 🎯 Goal
+To gain practical experience through internships and contribute to real-world projects.
+
+## 📫 Contact
+- Email: vishnupriyank40@gmail.com
+- LinkedIn: linkedin.com/in/vishnupriyan-k-9a7274365
